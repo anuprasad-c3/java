@@ -18,7 +18,6 @@ class AreaShapes {
 
     public static void main(String[] args) {
         AreaShapes obj = new AreaShapes();
-
         System.out.println("Area of Circle: " + obj.area(7.0));
         System.out.println("Area of Rectangle: " + obj.area(10.0, 5.0));
         System.out.println("Area of Triangle: " + obj.area(6f, 4f));
